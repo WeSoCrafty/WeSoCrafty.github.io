@@ -8,7 +8,7 @@ We expect everyone who participates in We So Crafty to follow this Code of Condu
 
 This page explains what is generally expected of community members, and what is absolutely required. 
 
-Interpersonal Interaction
+Interpersonal interaction
 --------------------------
 
 **Be friendly.** This is a community where we share things we make and do. Be supportive and encouraging of your community members.
@@ -23,7 +23,7 @@ Interpersonal Interaction
 
 **Do not make it personal.**  Try not to take offense where no offense was intended. Not everyone speaks or writes English fluently. Not everyone can express themselves clearly. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it.
 
-What Will Not Be Tolerated
+What will not be tolerated
 ---------------------------
 
 Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
