@@ -5,6 +5,6 @@ color: white
 fa-icon: info
 ---
 
-## You are welcome to join WeSoCrafty if you love making things. ##
+## You are welcome to join WeSoCrafty<br/>if you love making things. ##
 
-### You don't have to part of the tech industry to join.###
+### That's all that's required. ###
